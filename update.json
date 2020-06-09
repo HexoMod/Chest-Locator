@@ -1,40 +1,47 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
   "promos": {
-    "1.15.2-latest"     : "1.0.0",
-    "1.15.2-recomended" : "1.0.0",
-    "1.14.4-latest"     : "1.0.0",
-    "1.14.4-recomended" : "1.0.0",
-    "1.13.2-latest"     : "1.0.0",
-    "1.13.2-recomended" : "1.0.0",
-    "1.12.2-latest"     : "1.0.0",
-    "1.12.2-recomended" : "1.0.0",
-    "1.11.2-latest"     : "1.0.0",
-    "1.11.2-recomended" : "1.0.0",
-    "1.10.2-latest"     : "1.0.0",
-    "1.10.2-recomended" : "1.0.0",
-    "1.9.4-latest"      : "1.0.0",
-    "1.9.4-recomended"  : "1.0.0"
+    "1.15.2-latest"     : "1.0.1",
+    "1.15.2-recomended" : "1.0.1",
+    "1.14.4-latest"     : "1.0.1",
+    "1.14.4-recomended" : "1.0.1",
+    "1.13.2-latest"     : "1.0.1",
+    "1.13.2-recomended" : "1.0.1",
+    "1.12.2-latest"     : "1.0.1",
+    "1.12.2-recomended" : "1.0.1",
+    "1.11.2-latest"     : "1.0.1",
+    "1.11.2-recomended" : "1.0.1",
+    "1.10.2-latest"     : "1.0.1",
+    "1.10.2-recomended" : "1.0.1",
+    "1.9.4-latest"      : "1.0.1",
+    "1.9.4-recomended"  : "1.0.1"
   },
   "1.15.2" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.15.2"
   },
   "1.14.4" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.14.4"
   },
   "1.13.2" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.13.2"
   },
   "1.12.2" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.12.2"
   },
   "1.11.2" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.11.2"
   },
   "1.10.2" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.10.2"
   },
   "1.9.4" : {
+    "1.0.1" : "Minor bug fix",
     "1.0.0" : "First release for 1.9.4"
   }
 }
