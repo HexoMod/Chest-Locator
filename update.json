@@ -1,40 +1,49 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
   "promos": {
-    "1.16.4-latest"     : "1.0.4",
-    "1.16.4-recomended" : "1.0.4",
-    "1.16.3-latest"     : "1.0.4",
-    "1.16.3-recomended" : "1.0.4",
-    "1.16.2-latest"     : "1.0.4",
-    "1.16.2-recomended" : "1.0.4",
-    "1.15.2-latest"     : "1.0.4",
-    "1.15.2-recomended" : "1.0.4",
-    "1.14.4-latest"     : "1.0.4",
-    "1.14.4-recomended" : "1.0.4",
-    "1.13.2-latest"     : "1.0.4",
-    "1.13.2-recomended" : "1.0.4",
-    "1.12.2-latest"     : "1.0.4",
-    "1.12.2-recomended" : "1.0.4",
-    "1.11.2-latest"     : "1.0.4",
-    "1.11.2-recomended" : "1.0.4",
+    "1.16.5-latest"     : "1.0.5",
+    "1.16.5-recomended" : "1.0.5",
+    "1.16.4-latest"     : "1.0.5",
+    "1.16.4-recomended" : "1.0.5",
+    "1.16.3-latest"     : "1.0.5",
+    "1.16.3-recomended" : "1.0.5",
+    "1.16.2-latest"     : "1.0.5",
+    "1.16.2-recomended" : "1.0.5",
+    "1.15.2-latest"     : "1.0.5",
+    "1.15.2-recomended" : "1.0.5",
+    "1.14.4-latest"     : "1.0.5",
+    "1.14.4-recomended" : "1.0.5",
+    "1.13.2-latest"     : "1.0.5",
+    "1.13.2-recomended" : "1.0.5",
+    "1.12.2-latest"     : "1.0.5",
+    "1.12.2-recomended" : "1.0.5",
+    "1.11.2-latest"     : "1.0.5",
+    "1.11.2-recomended" : "1.0.5",
     "1.10.2-latest"     : "1.0.4",
     "1.10.2-recomended" : "1.0.4",
-    "1.9.4-latest"      : "1.0.4",
-    "1.9.4-recomended"  : "1.0.4"
+    "1.9.4-latest"      : "1.0.5",
+    "1.9.4-recomended"  : "1.0.5"
+  },
+  "1.16.5" : {
+    "1.0.5" : "Added support to 1.16.5"
   },
   "1.16.4" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Added support to 1.16.4"
   },
   "1.16.3" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Added support to 1.16.3"
   },
   "1.16.2" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Added support to 1.16.3",
     "1.0.2" : "Framework update to support 1.16.2"
   },
   "1.15.2" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Framework update",
     "1.0.2" : "Framework update to support 1.16.2",
@@ -42,6 +51,7 @@
     "1.0.0" : "First release for 1.15.2"
   },
   "1.14.4" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Framework update",
     "1.0.2" : "Framework update to support 1.16.2",
@@ -49,6 +59,7 @@
     "1.0.0" : "First release for 1.14.4"
   },
   "1.13.2" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Framework update",
     "1.0.2" : "Framework update to support 1.16.2",
@@ -56,6 +67,7 @@
     "1.0.0" : "First release for 1.13.2"
   },
   "1.12.2" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Framework update",
     "1.0.2" : "Framework update to support 1.16.2",
@@ -63,6 +75,7 @@
     "1.0.0" : "First release for 1.12.2"
   },
   "1.11.2" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Framework update",
     "1.0.2" : "Framework update to support 1.16.2",
@@ -77,6 +90,7 @@
     "1.0.0" : "First release for 1.10.2"
   },
   "1.9.4" : {
+    "1.0.5" : "Framework update",
     "1.0.4" : "Framework update",
     "1.0.3" : "Framework update",
     "1.0.2" : "Framework update to support 1.16.2",
